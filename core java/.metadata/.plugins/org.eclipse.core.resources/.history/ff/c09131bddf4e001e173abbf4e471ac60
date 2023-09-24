@@ -1,0 +1,16 @@
+package in.com.IO;
+
+import java.io.FileOutputStream;
+
+public class TestMarksheet1 {
+
+	public static void main(String[] args) {
+		
+		FileOutputStream file = new FileOutputStream("C:\\Users\\Pc\\Desktop\\IOSFolder\\objectt.txt")
+		
+		
+	}
+	
+	
+	
+}

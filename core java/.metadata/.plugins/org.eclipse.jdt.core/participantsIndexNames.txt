@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\rays software\Workspace\core java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2429962471.index
+\core java\src
+F:\core java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2429962471.index
+\core java\src

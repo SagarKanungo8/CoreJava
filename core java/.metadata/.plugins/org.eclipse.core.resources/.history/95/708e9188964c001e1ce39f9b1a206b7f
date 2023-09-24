@@ -1,0 +1,15 @@
+package in.com.IO;
+
+public class Scaner {
+	public static void main(String[] args) {
+		FileReader file = new FileReader("C:\\Users\\Pc\\Desktop\\IOSFolder\\New.txt");
+	Scanner sc = new Scanner
+		
+		
+		
+		
+		
+		
+	}
+
+}

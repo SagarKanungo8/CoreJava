@@ -1,0 +1,20 @@
+package in.com.CollectionsFramework;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Testlist1 {
+public static void main(String[] args) {
+	
+	List list = new ArrayList();
+	list.add("Sagar");
+	list.add(7);
+	list.add(10);
+	list.add('b');
+	list.add("One");
+	list.add(5,"Shivam");
+	System.out.println(list);
+	
+	
+}
+}

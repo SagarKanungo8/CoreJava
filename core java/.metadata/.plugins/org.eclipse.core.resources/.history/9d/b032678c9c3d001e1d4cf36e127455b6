@@ -1,0 +1,14 @@
+package in.com.raysOOP;
+
+public class IfElseStatement {
+
+	public static void main(String[] args) {
+		int money= 90;
+		if(money>99) {
+			System.out.println("Yes i can buy Pizza.");
+		}else
+			System.out.println("I cant buy pizza.");
+
+	}
+
+}
